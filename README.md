@@ -46,3 +46,11 @@ Text-detail-setting : 텍스트 세부 설정
 Lorem lpsum : 텍스트 자동 생성
 
 html.to.design : url를 피그마로 불러올 수 있음
+
+-MockRocket : 목업 이미지를 피그마에서 사용 가능
+
+-Get waves : 물결 모양 이미지 불러오기 가능
+
+-wedgradients : 그라데이션 색상 배경 제공
+
+
